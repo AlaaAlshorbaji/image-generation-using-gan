@@ -86,10 +86,9 @@ The generator tries to fool the discriminator, while the discriminator tries to 
 ## 👩‍💻 Author
 
 **Alaa Shorbaji**  
-Artificial Intelligence Instructor – Armed Forces  
+Artificial Intelligence Instructor
 Master’s Researcher in Deep Learning and XAI  
-GitHub: [your_username]  
-LinkedIn: [your_link]
+
 
 ---
 
